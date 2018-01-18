@@ -1,0 +1,24 @@
+#header
+name: Alex Romanov
+description: Azure, Office365, TypeScript
+favicon: /fav.png
+ga: ''
+
+#nav
+nav:
+    HOME: /
+    ARCHIVE: /archives/
+    GALLERY:  /gallery/
+    ABOUT: /about/
+
+#post
+excerpt_link: Continue Reading
+
+
+#about me
+aboutMeImg: /aboutme.jpg
+
+github: https://github.com/Romy63ru
+twitter: https://twitter.com/Romy63ru
+
+
